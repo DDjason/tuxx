@@ -1,0 +1,6 @@
+E tensorflow/core/util/events_writer.cc:62] Could not open events file: /tmp/cifar10_eval/events.out.tfevents.1498621730.iZwz9gbukjxbv8fmcatfh6Z: Permission denied: /tmp/cifar10_eval/events.out.tfevents.1498621730.iZwz9gbukjxbv8fmcatfh6Z
+E tensorflow/core/util/events_writer.cc:95] Write failed because file could not be opened.
+E tensorflow/core/util/events_writer.cc:62] Could not open events file: /tmp/cifar10_eval/events.out.tfevents.1498621731.iZwz9gbukjxbv8fmcatfh6Z: Permission denied: /tmp/cifar10_eval/events.out.tfevents.1498621731.iZwz9gbukjxbv8fmcatfh6Z
+E tensorflow/core/util/events_writer.cc:95] Write failed because file could not be opened.
+E tensorflow/core/util/events_writer.cc:62] Could not open events file: /tmp/cifar10_eval/events.out.tfevents.1498621731.iZwz9gbukjxbv8fmcatfh6Z: Permission denied: /tmp/cifar10_eval/events.out.tfevents.1498621731.iZwz9gbukjxbv8fmcatfh6Z
+E tensorflow/core/util/events_writer.cc:95] Write failed because file could not be opened.
